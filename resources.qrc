@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/admin.svg</file>
+        <file>images/chart.svg</file>
+        <file>images/click.svg</file>
+        <file>images/database.svg</file>
+        <file>images/logo.svg</file>
+        <file>images/logout.svg</file>
+        <file>images/mail.svg</file>
+        <file>images/plus.svg</file>
+        <file>images/post.svg</file>
+        <file>images/sidebar_collapse.svg</file>
+        <file>images/sidebar_expand.svg</file>
+    </qresource>
+</RCC>
